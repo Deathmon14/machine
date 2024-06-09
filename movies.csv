@@ -1,0 +1,68 @@
+Movie,Genre,Release_Year,Rating,Budget (in millions),Box_Office (in millions),Director,Sequel
+Inception,Sci-Fi,2010,8.8,160.0,829.9,Christopher Nolan,False
+The Shawshank Redemption,Drama,1994,9.3,25.0,28.4,Frank Darabont,False
+Pulp Fiction,Crime,1994,8.9,8.0,214.0,Quentin Tarantino,False
+The Dark Knight,Action,2008,9.0,185.0,1005.0,Christopher Nolan,True
+Forrest Gump,Drama,1994,,55.0,,Robert Zemeckis,False
+The Matrix,Sci-Fi,1999,8.7,,465.3,Lana and Lilly Wachowski,True
+The Godfather,Crime,1972,-1.5,6.0,250.0,Francis Ford Coppola,True
+The Silence of the Lambs,Thriller,1991,8.6,19.0,273.5,Jonathan Demme,False
+The Shawshank Redemption,Drama,1994,9.5,25.0,58.3,Frank Darabont,False
+The Godfather: Part II,Crime,1974,9.0,13.0,47.5,Francis Ford Coppola,True
+Interstellar,Sci-Fi,2014,8.6,165.0,677.5,Christopher Nolan,False
+Titanic,Romance,1997,7.8,200.0,2208.2,James Cameron,True
+The Avengers,Action,2012,8.0,220.0,1518.8,Joss Whedon,True
+The Shawshank Redemption,Drama,1994,9.1,25.0,75.6,Frank Darabont,False
+Jurassic Park,Adventure,1993,8.1,63.0,1030.0,Steven Spielberg,True
+The Social Network,Drama,2010,7.7,40.0,224.9,David Fincher,False
+Avatar,Sci-Fi,2009,7.8,237.0,2790.0,James Cameron,True
+The Dark Knight Rises,Action,2012,8.4,250.0,1081.0,Christopher Nolan,True
+Forrest Gump,Drama,1994,8.8,55.0,678.2,Robert Zemeckis,True
+The Lion King,Animation,1994,8.5,45.0,968.5,Roger Allers and Rob Minkoff,False
+Casablanca,Drama,1942,8.5,,3.0,Michael Curtiz,False
+Frozen,Animation,2013,7.4,150.0,1.28B,Chris Buck and Jennifer Lee,True
+The Grand Budapest Hotel,Comedy,2014,8.1,25.0,172.9,Wes Anderson,False
+Inglourious Basterds,War,2009,8.3,70.0,321.5,Quentin Tarantino,False
+Black Panther,Action,2018,7.3,200.0,1.35B,Ryan Coogler,True
+Eternal Sunshine of the Spotless Mind,Romance,2004,8.3,20.0,74.4,Michel Gondry,False
+The Martian,Sci-Fi,2015,8.0,108.0,630.2,Ridley Scott,False
+La La Land,Musical,2016,8.0,30.0,446.1,Damien Chazelle,False
+Jaws,Thriller,1975,8.0,9.0,470.7,Steven Spielberg,True
+The Departed,Crime,2006,8.5,90.0,291.5,Martin Scorsese,False
+Gravity,Sci-Fi,2013,7.7,100.0,723.2,Alfonso Cuarón,False
+The Revenant,Adventure,2015,8.0,135.0,533.0,Alejandro G. Iñárritu,False
+Blade Runner,Sci-Fi,1982,8.1,28.0,41.5,Ridley Scott,True
+The Princess Bride,Adventure,1987,8.1,16.0,30.9,Rob Reiner,False
+Django Unchained,Western,2012,8.4,100.0,425.4,Quentin Tarantino,False
+The Sound of Music,Musical,1965,8.0,8.2,286.2,Robert Wise,True
+The Shape of Water,Fantasy,2017,7.3,19.5,195.2,Guillermo del Toro,False
+Fight Club,Drama,1999,8.8,63.0,100.9,David Fincher,False
+The Hangover,Comedy,2009,7.7,35.0,467.5,Todd Phillips,True
+La La Land,Musical,2016,8.0,30.0,446.1,Damien Chazelle,False
+Jaws,Thriller,1975,8.0,9.0,470.7,Steven Spielberg,True
+The Departed,Crime,2006,8.5,90.0,291.5,Martin Scorsese,False
+Gravity,Sci-Fi,2013,7.7,100.0,723.2,Alfonso Cuarón,False
+The Revenant,Adventure,2015,8.0,135.0,533.0,Alejandro G. Iñárritu,False
+Blade Runner,Sci-Fi,1982,8.1,28.0,41.5,Ridley Scott,True
+The Princess Bride,Adventure,1987,8.1,16.0,30.9,Rob Reiner,False
+Django Unchained,Western,2012,8.4,100.0,425.4,Quentin Tarantino,False
+The Sound of Music,Musical,1965,8.0,8.2,286.2,Robert Wise,True
+The Shape of Water,Fantasy,2017,7.3,19.5,195.2,Guillermo del Toro,False
+Fight Club,Drama,1999,8.8,63.0,100.9,David Fincher,False
+The Hangover,Comedy,2009,7.7,35.0,467.5,Todd Phillips,True
+The Great Gatsby,Drama,2013,7.2,105.0,353.6,Baz Luhrmann,False
+Incredibles 2,Animation,2018,7.6,200.0,1.24B,Brad Bird,True
+Mad Max: Fury Road,Action,2015,8.1,150.0,378.9,George Miller,True
+The Shape of Water,Fantasy,2017,7.3,19.5,195.2,Guillermo del Toro,False
+Bohemian Rhapsody,Biography,2018,8.0,52.0,903.7,Bryan Singer,False
+Avengers: Endgame,Action,2019,8.4,356.0,2797.0,Anthony and Joe Russo,True
+Coco,Animation,2017,8.4,175.0,807.1,Lee Unkrich and Adrian Molina,False
+The Wolf of Wall Street,Comedy,2013,8.2,100.0,392.0,Martin Scorsese,False
+Black Widow,Action,2021,6.8,200.0,379.0,Cate Shortland,True
+The Irishman,Crime,2019,7.8,159.0,8.1,Martin Scorsese,False
+Tenet,Action,2020,7.4,225.0,363.1,Christopher Nolan,False
+Parasite,Thriller,2019,8.6,11.4,266.8,Bong Joon-ho,False
+Spider-Man: No Way Home,Action,2021,8.5,200.0,1.92B,Jon Watts,True
+Soul,Animation,2020,8.1,150.0,120.3,Pete Docter,False
+La La Land,Musical,2016,8.0,30.0,446.1,Damien Chazelle,False
+
