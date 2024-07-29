@@ -33,5 +33,5 @@ def main():
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Accuracy of the classifier is: {accuracy * 100:.2f}%")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
